@@ -22,6 +22,7 @@
 * * Template Literals [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=3589s);
 * * Promises [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=3758s);
 * * Importação e exportação [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=4655s);
+* * Async -> Await;
 * Typescript;
 * React 18 com React Router v6;
 * Styled Components [Ver](https://styled-components.com);
