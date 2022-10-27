@@ -1,8 +1,9 @@
 # Manual de estudos.
 
 ### O que devo saber:
-* HTML
-* CSS
+* HTML;
+* CSS;
+* Git;
 * Javascript com esteroides :) (ECMAScript latest version);
 * * Nullish Coalescing Operator [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=1072s);
 * * Objetos [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=1260s);
@@ -22,7 +23,16 @@
 * * Importação e exportação [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=4655s);
 * Typescript;
 * React 18 com React Router v6;
-* Git;
+* Styled Components [Ver](https://styled-components.com);
 
 ### Outros conteúdos:
 * Padronização de commits com git [Ver](https://ec.europa.eu/component-library/v1.14.2/ec/docs/conventions/git/);
+
+### Cursos
+
+* [React - The Complete Guide (incl Hooks, React Router, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/);
+
+### Canais
+
+* [Academind](https://www.youtube.com/c/Academind);
+* [TraversyMedia](https://www.youtube.com/c/TraversyMedia);
