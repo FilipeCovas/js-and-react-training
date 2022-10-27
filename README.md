@@ -4,6 +4,7 @@
 * HTML;
 * CSS;
 * Git;
+* NPM
 * Javascript com esteroides :) (ECMAScript latest version);
 * * Nullish Coalescing Operator [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=1072s);
 * * Objetos [Ver](https://www.youtube.com/watch?v=37SwqREHRGI&t=1260s);
@@ -24,6 +25,7 @@
 * Typescript;
 * React 18 com React Router v6;
 * Styled Components [Ver](https://styled-components.com);
+* RushJS [Ver](https://rushjs.io/);
 
 ### Outros conteúdos:
 * Padronização de commits com git [Ver](https://ec.europa.eu/component-library/v1.14.2/ec/docs/conventions/git/);
