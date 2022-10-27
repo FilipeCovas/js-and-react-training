@@ -1,6 +1,6 @@
 # Manual de estudos.
 
-O que devo saber:
+### O que devo saber:
 * HTML
 * CSS
 * Javascript com esteroides :) (ECMAScript latest version);
@@ -23,4 +23,6 @@ O que devo saber:
 * Typescript;
 * React 18 com React Router v6;
 * Git;
+
+### Outros conteúdos:
 * Padronização de commits com git [Ver](https://ec.europa.eu/component-library/v1.14.2/ec/docs/conventions/git/);
